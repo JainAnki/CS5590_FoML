@@ -1,0 +1,74 @@
+4a
+Kernel: linear
+Number of Support Vectors: 28
+Test Accuracy: 0.9787735849056604
+
+4b
+Kernel: linear
+
+No. of training samples: 50
+Number of Support Vectors: 2
+Test Accuracy: 0.9811320754716981
+
+No. of training samples: 100
+Number of Support Vectors: 4
+Test Accuracy: 0.9811320754716981
+
+No. of training samples: 200
+Number of Support Vectors: 8
+Test Accuracy: 0.9811320754716981
+
+No. of training samples: 800
+Number of Support Vectors: 14
+Test Accuracy: 0.9811320754716981
+4c
+Kernel: poly
+i: FALSE
+ii: TRUE
+iii: FALSE
+iv: FALSE
+
+4d
+Kernel: rbf
+C: 0.01
+Train Error: 0.0038436899423446302
+Test Error: 0.02358490566037741
+
+C: 1
+Train Error: 0.004484304932735439
+Test Error: 0.021226415094339646
+
+C: 100
+Train Error: 0.0032030749519538215
+Test Error: 0.018867924528301883
+
+C: 10000
+Train Error: 0.002562459961563124
+Test Error: 0.02358490566037741
+
+C: 1000000
+Train Error: 0.0006406149903908087
+Test Error: 0.02358490566037741
+
+Min train error corresponds to C =  [1000000]
+Min test error corresponds to C =  [100]
+
+5a
+Kernel: linear
+Number of Support Vectors: 1084
+Train Error: 0.0
+Test Error: 0.02400000000000002
+
+5b
+Kernel: rbf
+Number of Support Vectors: 6000
+Train Error: 0.0
+Test Error: 0.5
+
+Kernel: poly
+Number of Support Vectors: 1332
+Train Error: 0.0004999999999999449
+Test Error: 0.020000000000000018
+
+MIN TRAINING ERROR: [['RBF', 0.0]]
+MIN TESTING ERROR: [['Poly', 0.020000000000000018]]
