@@ -1,0 +1,12 @@
+30Trees
+The accuracy was 89.210716871832% on the test data with number of features = 7
+The accuracy was 92.25199131064447% on the test data with number of features = 12
+The accuracy was 93.84503982621288% on the test data with number of features = 17
+The accuracy was 94.35191889934829% on the test data with number of features = 22
+The accuracy was 94.71397538015931% on the test data with number of features = 27
+The accuracy was 95.1484431571325% on the test data with number of features = 32
+The accuracy was 94.85879797248371% on the test data with number of features = 37
+The accuracy was 95.1484431571325% on the test data with number of features = 42
+The accuracy was 94.78638667632151% on the test data with number of features = 47
+The accuracy was 94.42433019551049% on the test data with number of features = 52
+The accuracy was 92.54163649529326% on the test data with number of features = 57

@@ -1,0 +1,7 @@
+Code from scratch
+The accuracy was 94.4967414916727% on the test data with number of features = 42
+Time taken = Time: 02:51:17
+
+Built-in scikit-learn library
+The accuracy was 93.9174511223751% on the test data with number of features = 
+Time taken = 0.34009859599973424 seconds

@@ -1,0 +1,12 @@
+
+The accuracy was89.86241853729182% on the test data with number of features = 7
+The accuracy was92.32440260680667% on the test data with number of features = 12
+The accuracy was94.6415640839971% on the test data with number of features = 17
+The accuracy was94.93120926864592% on the test data with number of features = 22
+The accuracy was95.1484431571325% on the test data with number of features = 27
+The accuracy was95.2208544532947% on the test data with number of features = 32
+The accuracy was95.2932657494569% on the test data with number of features = 37
+The accuracy was95.43808834178131% on the test data with number of features = 42
+The accuracy was94.85879797248371% on the test data with number of features = 47
+The accuracy was95.00362056480812% on the test data with number of features = 52
+The accuracy was94.0622737146995% on the test data with number of features = 57
