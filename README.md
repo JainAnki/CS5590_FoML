@@ -2,13 +2,13 @@
 ## Assignments on various datasets to understand the numerous ML algoriyhms worked on in association with the CS5590 coursework  in IIT Hyderabad
 
 
-### Assignment 1
+### [Assignment 1](https://github.com/JainAnki/CS5590_FoML/tree/main/BM21MTECH14001_Assign1/)
 This homework is intended to cover programming exercises in the following topics:
 - k-NN, Decision Trees, Model Selection, Naive Bayes classifier
 - Determining the wine quality by implementing your own version of the decision tree using binary univariate split, entropy and information gain: 
-   -https://archive.ics.uci.edu/ml/datasets/Wine+Quality - the Wine dataset
+   - https://archive.ics.uci.edu/ml/datasets/Wine+Quality - the Wine dataset
 
-### Assignment 2
+### [Assignment 2](https://github.com/JainAnki/CS5590_FoML/tree/main/BM21MTECH14001_Assign2/)
 This homework is intended to cover theory and programming exercises in the following topics:
 - SVM, Kernels
 - soft-margin SVM to handwritten digits from the processed US Postal Service Zip Code data set: 
@@ -18,7 +18,7 @@ This homework is intended to cover theory and programming exercises in the follo
    - https://archive.ics.uci.edu/ml/datasets/Gisette
    - variations: In addition to the basic linear kernel, investigate two other standard kernels: RBF (a.k.a. Gaussian kernel), Polynomial kernel   
 
-### Assignment 3
+### [Assignment 3](https://github.com/JainAnki/CS5590_FoML/tree/main/BM21MTECH14001_Assign3/)
 This homework is intended to cover programming exercises in the following topics:
 - Neural Networks, Boosting/XGBoost, Random Forests
 - Own random forest classifier (given you have written your own decision tree code) to apply to the Spam dataset 
@@ -31,7 +31,7 @@ This homework is intended to cover programming exercises in the following topics
    - Get the best test accuracy you can, and show what hyperparameters led to this accuracy.
    - In particular, study the effect of increasing the number of trees in the classifier.
  
-### Assignment 4
+### [Assignment 4](https://github.com/JainAnki/CS5590_FoML/tree/main/BM21MTECH14001_Assign4/)
 This homework is intended to cover theory and programming exercises in the following topics:
 - Linear regression, Optimal bayes classifier, VC dimension, Regularizers
 - Implement your own code for a logistic regression classifier
@@ -39,7 +39,7 @@ This homework is intended to cover theory and programming exercises in the follo
    - https://www.kaggle.com/c/new-york-city-taxi-fare-prediction
    - model should achieve at least RMSE < 4.
 
-### Assignment 5
+### [Assignment 5](https://github.com/JainAnki/CS5590_FoML/tree/main/BM21MTECH14001_Assign5/)
 - This homework is intended to cover programming exercises in the following topics:
    - Clustering, Expectation Maximization, PCA, t-SNE  
    - Implement your own DBSCAN algorithm
