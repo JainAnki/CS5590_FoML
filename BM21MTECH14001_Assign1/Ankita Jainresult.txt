@@ -1,0 +1,7 @@
+Without cross validation with Entropy as Impurity, Accuracy = 0.8119
+
+Without cross validation with Entropy as impurity, Accuracy = 0.8119
+
+Average unpruned tree accuracy with Gini Index Impurity = 0.8281
+
+Average pruned tree accuracy with Entropy as Impurity: 0.8265
